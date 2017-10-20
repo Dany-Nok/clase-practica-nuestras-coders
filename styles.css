@@ -1,0 +1,86 @@
+body{
+  position: absolute;
+}
+h2{
+  font-family: 'Cutive Mono', monospace;
+  font-weight: bold;
+  margin: 3px;
+  margin-left: 10px;
+}
+.rectangulo_pequeno{
+  width: 80px;
+  height: 8px;
+  background-color: black;
+  margin-left: 10px;
+  margin-bottom: 15px;
+}
+/*.Fotos_coders_grupo_1{
+  position: relative;
+  border: 1px solid red;
+  padding: 7px;
+}*/
+.Mari_Lyna{
+  position: relative;
+  display: inline-block;
+  /*border: 1px solid green;*/
+  margin: 5px;
+  float: left;
+  padding: 5px;
+}
+.Mari_Mon{
+  position: relative;
+  display: inline-block;
+  /*border: 1px solid green;*/
+  margin: 5px;
+  float: left;
+  padding: 5px;
+}
+.Mari_Mari{
+  position: relative;
+  display: inline-block;
+  /*border: 1px solid green;*/
+  margin: 5px;
+  float: left;
+  padding: 5px;
+}
+/*.Fotos_coders_grupo_2{
+  position: relative;
+  border: 1px solid red;
+  padding: 7px;
+}*/
+.M_Monroe{
+  position: relative;
+  display: inline-block;
+  /*border: 1px solid green;*/
+  margin: 5px;
+  float: left;
+  padding: 5px;
+}
+.Miss_Monroe{
+  position: relative;
+  display: inline-block;
+  /*border: 1px solid green;*/
+  margin: 5px;
+  float: left;
+  padding: 5px;
+}
+.Marilyn_a_secas{
+  position: relative;
+  display: inline-block;
+  /*border: 1px solid green;*/
+  margin: 5px;
+  float: left;
+  padding: 5px;
+}
+p{
+  /*border: 1px solid red;*/
+  margin: 0;
+  display: block;
+  position: absolute;
+  font-family: 'Arvo', serif;
+  font-weight: bold;
+  color: white;
+  bottom: 15px;
+  left: 55px;
+  text-align: center;
+}
